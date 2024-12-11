@@ -20,6 +20,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajinkya-W/leetcode25/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ajinkya-W/leetcode25/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ajinkya-W/leetcode25/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
