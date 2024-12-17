@@ -1,19 +1,17 @@
 class Solution {
 private:
     int maxProductHelper(vector<int>& nums){
-        int prod=nums[0], maxProd=max(INT_MIN,nums[0]), maxNum =nums[0];
-        for(int i=1; i< nums.size(); i++){
-            prod = (prod == 0) ? nums[i] : prod * nums[i];
-            maxProd = max(prod,maxProd);
-            maxNum = max(maxNum, nums[i]);
-        }
-        prod = nums[nums.size()-1];
-        for(int i=nums.size()-2; i>=0; i--){
+        int prod=1, maxProd=INT_MIN;
+        for(int i=0; i< nums.size(); i++){
             prod = (prod == 0) ? nums[i] : prod * nums[i];
             maxProd = max(prod,maxProd);
         }
-        
-        return max(maxProd, maxNum);
+        prod = 1;
+        for(int i=nums.size()-1; i>=0; i--){
+            prod = (prod == 0) ? nums[i] : prod * nums[i];
+            maxProd = max(prod,maxProd);
+        }
+        return maxProd;
     }
 public:
     int maxProduct(vector<int>& nums) {
