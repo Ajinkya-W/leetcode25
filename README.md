@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajinkya-W/leetcode25/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -43,6 +44,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0011-container-with-most-water) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -64,4 +66,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Ajinkya-W/leetcode25/tree/master/0191-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
