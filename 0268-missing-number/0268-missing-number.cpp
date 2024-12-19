@@ -8,6 +8,17 @@ public:
         //     }
         // }
         // return nums.size();
+        /*
+        int n = nums.size();
+        int ans =0;
+        for(int i =1;i<=n;i++){
+            ans = ans ^ i;
+        }
+        for(int i =0;i<nums.size();i++){
+            ans= ans^nums[i];
+        }
+        return ans;
+        */
         int i=0, n =nums.size();
         while(i<n){
             if(nums[i]==i || nums[i]==n) i++;
