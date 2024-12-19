@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ajinkya-W/leetcode25/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -25,12 +26,14 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ajinkya-W/leetcode25/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ajinkya-W/leetcode25/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Ajinkya-W/leetcode25/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +44,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ajinkya-W/leetcode25/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,11 +55,13 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Ajinkya-W/leetcode25/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
