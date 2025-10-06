@@ -28,6 +28,7 @@
 | [0238-product-of-array-except-self](https://github.com/Ajinkya-W/leetcode25/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ajinkya-W/leetcode25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ajinkya-W/leetcode25/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ajinkya-W/leetcode25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +78,5 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0011-container-with-most-water) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ajinkya-W/leetcode25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 <!---LeetCode Topics End-->
