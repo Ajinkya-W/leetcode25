@@ -1,20 +1,20 @@
 class Solution {
 public:
     string removeDuplicates(string s) {
-        stack<char> uniqueElementStack;
+        deque<char> uniqueElementStack;
         for(char currChar: s){
-            if(!uniqueElementStack.empty() && uniqueElementStack.top()==currChar){
-                uniqueElementStack.pop();
+            if(!uniqueElementStack.empty() && uniqueElementStack.back()==currChar){
+                uniqueElementStack.pop_back();
             } else{
-                uniqueElementStack.push(currChar);
+                uniqueElementStack.push_back(currChar);
             }
         }
         string result="";
         while(!uniqueElementStack.empty()){
-            result+=uniqueElementStack.top();
-            uniqueElementStack.pop();
+            result+=uniqueElementStack.front();
+            uniqueElementStack.pop_front();
         }
-        reverse(result.begin(),result.end());
+        
         return result;
     }
 };
