@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ajinkya-W/leetcode25/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Ajinkya-W/leetcode25/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Ajinkya-W/leetcode25/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
