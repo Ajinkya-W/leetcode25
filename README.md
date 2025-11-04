@@ -25,6 +25,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajinkya-W/leetcode25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Ajinkya-W/leetcode25/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ajinkya-W/leetcode25/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
@@ -94,11 +95,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ajinkya-W/leetcode25/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ajinkya-W/leetcode25/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
@@ -113,5 +116,10 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
