@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ajinkya-W/leetcode25/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Ajinkya-W/leetcode25/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajinkya-W/leetcode25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0152-maximum-product-subarray) |
 ## Sorting
@@ -129,4 +131,8 @@
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
