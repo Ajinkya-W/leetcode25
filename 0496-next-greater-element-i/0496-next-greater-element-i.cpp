@@ -2,23 +2,26 @@ class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         unordered_map<int, int> nums1HMap;
-        vector<int> result;
+        int size = nums1.size();
+        nums1HMap.reserve(size);
+        vector<int> result(size);
         for(int num: nums1){
             nums1HMap[num] = -1;
         }
-        stack<int> nextGreaterEleStk;
+        stack<int> candidateValues;
         for(int currNum: nums2){
-            while(nextGreaterEleStk.size()>0 && nextGreaterEleStk.top() < currNum){
-                if(nums1HMap.find(nextGreaterEleStk.top())!=nums1HMap.end()){
-                    nums1HMap[nextGreaterEleStk.top()] = currNum;
+            while(candidateValues.size()>0 && candidateValues.top() < currNum){
+                if(nums1HMap.find(candidateValues.top())!=nums1HMap.end()){
+                    nums1HMap[candidateValues.top()] = currNum;
                 }
-                nextGreaterEleStk.pop();  
+                candidateValues.pop();  
             } 
-            nextGreaterEleStk.push(currNum);
+            candidateValues.push(currNum);
         }
 
-        for(int num: nums1){
-            result.push_back(nums1HMap[num]);
+        for(int itr = 0; itr < nums1.size(); itr++){
+            int num = nums1[itr];
+            result[itr] = nums1HMap[num];
         }
         return result;
     }
