@@ -11,8 +11,9 @@ public:
         stack<int> candidateValues;
         for(int currNum: nums2){
             while(candidateValues.size()>0 && candidateValues.top() < currNum){
-                if(nums1HMap.find(candidateValues.top())!=nums1HMap.end()){
-                    nums1HMap[candidateValues.top()] = currNum;
+                auto it = nums1HMap.find(candidateValues.top());
+                if (it != nums1HMap.end()) {
+                    it->second = currNum;
                 }
                 candidateValues.pop();  
             } 
