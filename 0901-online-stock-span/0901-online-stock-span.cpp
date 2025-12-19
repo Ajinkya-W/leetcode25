@@ -1,13 +1,18 @@
 class StockSpanner {
+private:
+    struct stock{
+        int price;
+        int span;
+    };
 public:
-    stack<pair<int, int>> stkSpan; // price, span
+    stack<stock> stkSpan; // price, span
     StockSpanner() {
     }
     
     int next(int price) {
         int span = 1;
-        while(!stkSpan.empty() && stkSpan.top().first <= price){
-            int topElementSpan = stkSpan.top().second;
+        while(!stkSpan.empty() && stkSpan.top().price <= price){
+            int topElementSpan = stkSpan.top().span;
             span += topElementSpan;
             stkSpan.pop();
         }
