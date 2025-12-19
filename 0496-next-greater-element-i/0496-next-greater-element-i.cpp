@@ -2,9 +2,8 @@ class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         unordered_map<int, int> nums1HMap;
-        int size = nums1.size();
-        nums1HMap.reserve(size);
-        vector<int> result(size);
+        nums1HMap.reserve(nums1.size());
+        
         for(int num: nums1){
             nums1HMap[num] = -1;
         }
@@ -19,7 +18,7 @@ public:
             } 
             candidateValues.push(currNum);
         }
-
+        vector<int> result(nums1.size());
         for(int itr = 0; itr < nums1.size(); itr++){
             int num = nums1[itr];
             result[itr] = nums1HMap[num];
