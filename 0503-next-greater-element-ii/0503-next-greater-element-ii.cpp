@@ -4,16 +4,14 @@ public:
         int n = nums.size();
         vector<int> result(n, -1);
         stack<int> candidateIndices;
-        for(int index = 0; index < 2 * n; index++){
-            int currNum = nums[index % n];
-            while(candidateIndices.size()>0 && nums[candidateIndices.top()] < currNum){
-                if(result[candidateIndices.top() % n] == -1){
-                    result[candidateIndices.top() % n] = currNum;
-                }
+        for(int i = 0; i < 2*n; i++){
+            int currNum = nums[i % n];
+            while(!candidateIndices.empty() && nums[candidateIndices.top()] < currNum){
+                result[candidateIndices.top()] = currNum;
                 candidateIndices.pop();  
             } 
-            if(index < n)
-                candidateIndices.push(index);
+            if(i < n)
+                candidateIndices.push(i);
         }
         return result;
     }
