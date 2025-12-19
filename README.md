@@ -109,6 +109,7 @@
 | [0496-next-greater-element-i](https://github.com/Ajinkya-W/leetcode25/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ajinkya-W/leetcode25/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Ajinkya-W/leetcode25/tree/master/0901-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ajinkya-W/leetcode25/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Depth-First Search
@@ -157,4 +158,13 @@
 | [0496-next-greater-element-i](https://github.com/Ajinkya-W/leetcode25/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ajinkya-W/leetcode25/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Ajinkya-W/leetcode25/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Ajinkya-W/leetcode25/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Ajinkya-W/leetcode25/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
