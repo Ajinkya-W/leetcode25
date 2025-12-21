@@ -26,6 +26,7 @@
 | [0042-trapping-rain-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ajinkya-W/leetcode25/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ajinkya-W/leetcode25/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajinkya-W/leetcode25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -54,6 +55,7 @@
 | [0042-trapping-rain-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Ajinkya-W/leetcode25/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajinkya-W/leetcode25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0152-maximum-product-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0746-min-cost-climbing-stairs) |
@@ -108,6 +110,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ajinkya-W/leetcode25/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ajinkya-W/leetcode25/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Ajinkya-W/leetcode25/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ajinkya-W/leetcode25/tree/master/0739-daily-temperatures) |
@@ -146,6 +149,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Ajinkya-W/leetcode25/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
@@ -158,6 +162,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ajinkya-W/leetcode25/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ajinkya-W/leetcode25/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Ajinkya-W/leetcode25/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ajinkya-W/leetcode25/tree/master/0739-daily-temperatures) |
