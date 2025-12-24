@@ -1,27 +1,36 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int, int> nums1HMap;
-        nums1HMap.reserve(nums1.size());
-        
-        for(int num: nums1){
-            nums1HMap[num] = -1;
+        if(nums1.empty() || nums2.empty()){
+            return {};
         }
-        stack<int> candidateValues;
-        for(int currNum: nums2){
-            while(candidateValues.size()>0 && candidateValues.top() < currNum){
-                auto it = nums1HMap.find(candidateValues.top());
-                if (it != nums1HMap.end()) {
-                    it->second = currNum;
+        unordered_map<int, int> candidateMap;
+        int n1 = nums1.size(), n2 = nums2.size();
+        candidateMap.reserve(n1);
+
+        // create map for candidates
+        for(auto num: nums1){
+            candidateMap[num] = -1;
+        }
+
+
+        stack<int> stk;
+        for(int i = 0; i < n2; i++){
+            int num = nums2[i];
+            while(!stk.empty() && stk.top() < num){
+                auto index = candidateMap.find(stk.top());
+                if(index != candidateMap.end()){
+                    index->second = num;
                 }
-                candidateValues.pop();  
-            } 
-            candidateValues.push(currNum);
+                stk.pop();
+            }
+            stk.push(num);
         }
-        vector<int> result(nums1.size());
-        for(int itr = 0; itr < nums1.size(); itr++){
-            int num = nums1[itr];
-            result[itr] = nums1HMap[num];
+
+        vector<int> result;
+        for(int i = 0; i < n1; i++){
+            int num = nums1[i];
+            result.push_back(candidateMap[num]);
         }
         return result;
     }
