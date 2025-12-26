@@ -36,6 +36,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Ajinkya-W/leetcode25/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/Ajinkya-W/leetcode25/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Ajinkya-W/leetcode25/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ajinkya-W/leetcode25/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@
 | [0085-maximal-rectangle](https://github.com/Ajinkya-W/leetcode25/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajinkya-W/leetcode25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/Ajinkya-W/leetcode25/tree/master/0221-maximal-square) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0746-min-cost-climbing-stairs) |
 ## Sorting
 |  |
@@ -162,6 +164,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ajinkya-W/leetcode25/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Ajinkya-W/leetcode25/tree/master/0221-maximal-square) |
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
 ## Memoization
