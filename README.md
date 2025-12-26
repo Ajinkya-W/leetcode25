@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ajinkya-W/leetcode25/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/Ajinkya-W/leetcode25/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0011-container-with-most-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/Ajinkya-W/leetcode25/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
