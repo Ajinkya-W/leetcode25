@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ajinkya-W/leetcode25/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ajinkya-W/leetcode25/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Ajinkya-W/leetcode25/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Ajinkya-W/leetcode25/tree/master/0876-middle-of-the-linked-list) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ajinkya-W/leetcode25/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Ajinkya-W/leetcode25/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0142-linked-list-cycle-ii) |
