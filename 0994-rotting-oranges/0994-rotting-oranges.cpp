@@ -17,6 +17,8 @@ public:
         }
         if(freshOranges==0) return 0;
         
+        const int dr[4] = {0, 1, -1, 0};
+        const int dc[4] = {1, 0, 0, -1};
         // rot
         while(!q.empty()){
             int qSize = q.size();
@@ -24,20 +26,17 @@ public:
             for(int i = 0; i < qSize; i++){
                 int r = q.front().first, c = q.front().second;
                 
-                if(r-1>=0 && grid[r-1][c] == 1){
-                    grid[r-1][c] = 2; q.push({r-1, c}); freshOranges--;
-                }
-                if(r+1<row && grid[r+1][c] == 1){
-                    grid[r+1][c] = 2; q.push({r+1, c}); freshOranges--;
-                }
-                if(c-1>=0 && grid[r][c-1] == 1){
-                    grid[r][c-1] = 2; q.push({r, c-1}); freshOranges--;
-                }
-                if(c+1<col && grid[r][c+1] == 1){
-                    grid[r][c+1] = 2; q.push({r, c+1}); freshOranges--;
+                for(int j = 0; j < 4; j++){
+                    int R = r + dr[j];
+                    int C = c + dc[j];
+                    if(R >= 0 && R < row && C >= 0 && C < col && grid[R][C] == 1){
+                        grid[R][C] = 2; q.push({R, C}); freshOranges--;
+                    }
+                    
                 }
                 q.pop();
             }
+
             if(!q.empty())
                 minutes++;
         }
