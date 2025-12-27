@@ -29,6 +29,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Ajinkya-W/leetcode25/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ajinkya-W/leetcode25/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ajinkya-W/leetcode25/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajinkya-W/leetcode25/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ajinkya-W/leetcode25/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Ajinkya-W/leetcode25/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ajinkya-W/leetcode25/tree/master/0239-sliding-window-maximum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ajinkya-W/leetcode25/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
