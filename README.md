@@ -48,6 +48,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ajinkya-W/leetcode25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ajinkya-W/leetcode25/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -167,6 +169,7 @@
 | [0221-maximal-square](https://github.com/Ajinkya-W/leetcode25/tree/master/0221-maximal-square) |
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Memoization
 |  |
 | ------- |
