@@ -3,7 +3,6 @@ public:
     int shortestPath(vector<vector<int>>& grid, int k) {
         int row = grid.size();
         int col = grid[0].size();
-        int freshOranges = 0;
 
         queue<vector<int>> q;
         vector<vector<int>> maxK(row, vector<int>(col, -1));
