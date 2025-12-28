@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ajinkya-W/leetcode25/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -219,4 +220,12 @@
 | [0039-combination-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Ajinkya-W/leetcode25/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0090-subsets-ii) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
