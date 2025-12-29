@@ -142,6 +142,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
@@ -226,10 +227,12 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
