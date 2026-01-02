@@ -11,22 +11,21 @@
  */
 class Solution {
 private:
-    int getHeight(TreeNode* root, int &maxDiameter){
-        if(root == nullptr)
-            return 0;
-        
-        int lh = getHeight(root->left, maxDiameter);
-        int rh = getHeight(root->right, maxDiameter);
-        
-        int diameter = lh + rh;
+    int dfsHelper(TreeNode* root, int &maxDiameter){
+        if(!root) return 0;
 
+        int leftHeight = dfsHelper(root->left, maxDiameter);
+        int rightHeight = dfsHelper(root->right, maxDiameter);
+
+        int diameter = leftHeight + rightHeight;
         maxDiameter = max(maxDiameter, diameter);
-        return 1 + max(lh, rh);
+
+        return 1 + max(leftHeight, rightHeight);
     }
 public:
     int diameterOfBinaryTree(TreeNode* root) {
         int maxDiameter = 0;
-        getHeight(root, maxDiameter);
+        dfsHelper(root, maxDiameter);
         return maxDiameter;
     }
 };
