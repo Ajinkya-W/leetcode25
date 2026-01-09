@@ -30,6 +30,7 @@
 | [0039-combination-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Ajinkya-W/leetcode25/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ajinkya-W/leetcode25/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ajinkya-W/leetcode25/tree/master/0085-maximal-rectangle) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Ajinkya-W/leetcode25/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajinkya-W/leetcode25/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -197,6 +199,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Ajinkya-W/leetcode25/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Ajinkya-W/leetcode25/tree/master/0221-maximal-square) |
