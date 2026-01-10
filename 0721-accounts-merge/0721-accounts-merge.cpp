@@ -1,8 +1,12 @@
+// Time: O(E \alpha(N) + E log E) — Where $E$ is the total number of emails. The log E from sorting is the actual bottleneck, not the DSU.
+// Space: O(E + N) — To store the email map and the DSU parent/rank arrays.
 class DisjointSet {
 public:
     vector<int> parent;
+    vector<int> rank; // Added for optimization
     DisjointSet(int n) {
         parent.resize(n);
+        rank.resize(n, 0);
         for (int i = 0; i < n; i++)
             parent[i] = i;
     }
@@ -16,7 +20,14 @@ public:
         int xRoot = find(x);
         int yRoot = find(y);
         if (xRoot != yRoot) {
-            parent[xRoot] = yRoot;
+            if(rank[xRoot] > rank[yRoot]){
+                parent[yRoot] = xRoot;
+            } else if(rank[xRoot] < rank[yRoot]) {
+                parent[xRoot] = yRoot;
+            } else{
+                parent[yRoot] = xRoot;
+                rank[xRoot]++;
+            }
         }
     }
 };
