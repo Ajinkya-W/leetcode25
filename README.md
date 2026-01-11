@@ -60,6 +60,7 @@
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ajinkya-W/leetcode25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
+| [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [0743-network-delay-time](https://github.com/Ajinkya-W/leetcode25/tree/master/0743-network-delay-time) |
 | [1377-frog-position-after-t-seconds](https://github.com/Ajinkya-W/leetcode25/tree/master/1377-frog-position-after-t-seconds) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ajinkya-W/leetcode25/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -197,6 +200,7 @@
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1377-frog-position-after-t-seconds](https://github.com/Ajinkya-W/leetcode25/tree/master/1377-frog-position-after-t-seconds) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ajinkya-W/leetcode25/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -218,6 +222,7 @@
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Ajinkya-W/leetcode25/tree/master/0721-accounts-merge) |
+| [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -228,6 +233,7 @@
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 ## Memoization
 |  |
 | ------- |
@@ -265,6 +271,7 @@
 | [0239-sliding-window-maximum](https://github.com/Ajinkya-W/leetcode25/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Ajinkya-W/leetcode25/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Ajinkya-W/leetcode25/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
