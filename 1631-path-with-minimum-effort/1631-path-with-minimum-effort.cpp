@@ -18,7 +18,7 @@ public:
         int dc[4] = {0, 0, -1, 1};
 
         while (!pq.empty()) {
-            pair<int, pair<int, int>> top = pq.top();
+            pair<int, pair<int, int>> top = pq.top(); // tuple can be used get<0>(top)
             int e = top.first, r = top.second.first, c = top.second.second;
             pq.pop();
 
