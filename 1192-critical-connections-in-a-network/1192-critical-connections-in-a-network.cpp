@@ -18,7 +18,7 @@ private:
                         bridges.push_back({u, neighbour});
                     }
                 } else{
-                    low[u] = min(low[u], low[neighbour]);
+                    low[u] = min(low[u], tin[neighbour]);
                 }                
             }
         }
