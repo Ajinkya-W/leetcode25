@@ -60,6 +60,7 @@
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ajinkya-W/leetcode25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ajinkya-W/leetcode25/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
@@ -212,6 +213,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/Ajinkya-W/leetcode25/tree/master/1192-critical-connections-in-a-network) |
 | [1377-frog-position-after-t-seconds](https://github.com/Ajinkya-W/leetcode25/tree/master/1377-frog-position-after-t-seconds) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ajinkya-W/leetcode25/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ajinkya-W/leetcode25/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Ajinkya-W/leetcode25/tree/master/0721-accounts-merge) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ajinkya-W/leetcode25/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -346,4 +349,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Ajinkya-W/leetcode25/tree/master/1192-critical-connections-in-a-network) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ajinkya-W/leetcode25/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
