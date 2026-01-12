@@ -93,6 +93,7 @@
 | [0337-house-robber-iii](https://github.com/Ajinkya-W/leetcode25/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Sorting
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0721-accounts-merge](https://github.com/Ajinkya-W/leetcode25/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ajinkya-W/leetcode25/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/Ajinkya-W/leetcode25/tree/master/1192-critical-connections-in-a-network) |
 | [1377-frog-position-after-t-seconds](https://github.com/Ajinkya-W/leetcode25/tree/master/1377-frog-position-after-t-seconds) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ajinkya-W/leetcode25/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -198,6 +200,7 @@
 | [0721-accounts-merge](https://github.com/Ajinkya-W/leetcode25/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ajinkya-W/leetcode25/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1377-frog-position-after-t-seconds](https://github.com/Ajinkya-W/leetcode25/tree/master/1377-frog-position-after-t-seconds) |
@@ -210,6 +213,7 @@
 | [0210-course-schedule-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Ajinkya-W/leetcode25/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/Ajinkya-W/leetcode25/tree/master/1192-critical-connections-in-a-network) |
 | [1377-frog-position-after-t-seconds](https://github.com/Ajinkya-W/leetcode25/tree/master/1377-frog-position-after-t-seconds) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ajinkya-W/leetcode25/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -276,6 +280,7 @@
 | [0239-sliding-window-maximum](https://github.com/Ajinkya-W/leetcode25/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Ajinkya-W/leetcode25/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Ajinkya-W/leetcode25/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
@@ -345,6 +350,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ajinkya-W/leetcode25/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Biconnected Component
 |  |
 | ------- |
