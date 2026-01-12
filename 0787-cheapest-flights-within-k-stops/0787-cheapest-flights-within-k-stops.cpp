@@ -17,18 +17,18 @@ public:
         int stops = 0;
         // The Truth: stops <= k allows for k+1 total edges
         while(!q.empty() && stops <= k) {
+            vector<int> nextDist = distance; // Copy current state
             int sz = q.size();
             while (sz--) {
-                auto [currNode, currCost] = q.front();
-                q.pop();
-
-                for (auto& [neighbor, price] : adj[currNode]) {
-                    if (currCost + price < distance[neighbor]) {
-                        distance[neighbor] = currCost + price;
-                        q.push({neighbor, distance[neighbor]});
+                auto [u, cost] = q.front(); q.pop();
+                for (auto& [v, price] : adj[u]) {
+                    if (cost + price < nextDist[v]) { // Update the copy
+                        nextDist[v] = cost + price;
+                        q.push({v, nextDist[v]});
                     }
                 }
             }
+            distance = nextDist; // Finalize the level
             stops++;
         }
         return distance[dst] == INT_MAX ? -1 : distance[dst]; 
