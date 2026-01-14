@@ -67,6 +67,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ajinkya-W/leetcode25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Ajinkya-W/leetcode25/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Ajinkya-W/leetcode25/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Ajinkya-W/leetcode25/tree/master/0217-contains-duplicate) |
@@ -152,6 +153,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ajinkya-W/leetcode25/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Ajinkya-W/leetcode25/tree/master/0721-accounts-merge) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ajinkya-W/leetcode25/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -194,6 +196,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ajinkya-W/leetcode25/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ajinkya-W/leetcode25/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0210-course-schedule-ii) |
