@@ -39,6 +39,7 @@
 | [0090-subsets-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ajinkya-W/leetcode25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajinkya-W/leetcode25/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -70,6 +71,7 @@
 | [0001-two-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ajinkya-W/leetcode25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Ajinkya-W/leetcode25/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Ajinkya-W/leetcode25/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Ajinkya-W/leetcode25/tree/master/0217-contains-duplicate) |
@@ -383,4 +385,8 @@
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ajinkya-W/leetcode25/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
