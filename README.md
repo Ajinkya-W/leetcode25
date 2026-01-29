@@ -218,6 +218,7 @@
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1377-frog-position-after-t-seconds](https://github.com/Ajinkya-W/leetcode25/tree/master/1377-frog-position-after-t-seconds) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ajinkya-W/leetcode25/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1609-even-odd-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -320,6 +321,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ajinkya-W/leetcode25/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1377-frog-position-after-t-seconds](https://github.com/Ajinkya-W/leetcode25/tree/master/1377-frog-position-after-t-seconds) |
+| [1609-even-odd-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/1609-even-odd-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -333,6 +335,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Ajinkya-W/leetcode25/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ajinkya-W/leetcode25/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1609-even-odd-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/1609-even-odd-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
