@@ -100,6 +100,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ajinkya-W/leetcode25/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0968-binary-tree-cameras](https://github.com/Ajinkya-W/leetcode25/tree/master/0968-binary-tree-cameras) |
 ## Sorting
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ajinkya-W/leetcode25/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0968-binary-tree-cameras](https://github.com/Ajinkya-W/leetcode25/tree/master/0968-binary-tree-cameras) |
 | [1192-critical-connections-in-a-network](https://github.com/Ajinkya-W/leetcode25/tree/master/1192-critical-connections-in-a-network) |
 | [1377-frog-position-after-t-seconds](https://github.com/Ajinkya-W/leetcode25/tree/master/1377-frog-position-after-t-seconds) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ajinkya-W/leetcode25/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -320,6 +322,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Ajinkya-W/leetcode25/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ajinkya-W/leetcode25/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0968-binary-tree-cameras](https://github.com/Ajinkya-W/leetcode25/tree/master/0968-binary-tree-cameras) |
 | [1377-frog-position-after-t-seconds](https://github.com/Ajinkya-W/leetcode25/tree/master/1377-frog-position-after-t-seconds) |
 | [1609-even-odd-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/1609-even-odd-tree) |
 ## Binary Tree
@@ -335,6 +338,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Ajinkya-W/leetcode25/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ajinkya-W/leetcode25/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0968-binary-tree-cameras](https://github.com/Ajinkya-W/leetcode25/tree/master/0968-binary-tree-cameras) |
 | [1609-even-odd-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/1609-even-odd-tree) |
 ## Binary Search Tree
 |  |
