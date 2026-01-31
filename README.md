@@ -43,6 +43,7 @@
 | [0152-maximum-product-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajinkya-W/leetcode25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Ajinkya-W/leetcode25/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0213-house-robber-ii) |
@@ -117,6 +118,7 @@
 | [0042-trapping-rain-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Ajinkya-W/leetcode25/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajinkya-W/leetcode25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ajinkya-W/leetcode25/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Ajinkya-W/leetcode25/tree/master/0876-middle-of-the-linked-list) |
@@ -129,6 +131,7 @@
 | [0069-sqrtx](https://github.com/Ajinkya-W/leetcode25/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajinkya-W/leetcode25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajinkya-W/leetcode25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
