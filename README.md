@@ -67,6 +67,7 @@
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ajinkya-W/leetcode25/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
+| [3637-trionic-array-i](https://github.com/Ajinkya-W/leetcode25/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
