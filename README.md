@@ -17,6 +17,7 @@
 | [0069-sqrtx](https://github.com/Ajinkya-W/leetcode25/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Ajinkya-W/leetcode25/tree/master/0877-stone-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Ajinkya-W/leetcode25/tree/master/3828-final-element-after-subarray-deletions) |
 ## Recursion
 |  |
@@ -63,6 +64,7 @@
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Ajinkya-W/leetcode25/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Ajinkya-W/leetcode25/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ajinkya-W/leetcode25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -105,6 +107,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ajinkya-W/leetcode25/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0877-stone-game](https://github.com/Ajinkya-W/leetcode25/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/Ajinkya-W/leetcode25/tree/master/0968-binary-tree-cameras) |
 ## Sorting
 |  |
@@ -411,5 +414,6 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Ajinkya-W/leetcode25/tree/master/0877-stone-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Ajinkya-W/leetcode25/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
