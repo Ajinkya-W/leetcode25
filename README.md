@@ -17,6 +17,7 @@
 | [0069-sqrtx](https://github.com/Ajinkya-W/leetcode25/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Ajinkya-W/leetcode25/tree/master/3828-final-element-after-subarray-deletions) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/Ajinkya-W/leetcode25/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 | [3637-trionic-array-i](https://github.com/Ajinkya-W/leetcode25/tree/master/3637-trionic-array-i) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Ajinkya-W/leetcode25/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
 | ------- |
@@ -402,4 +404,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0128-longest-consecutive-sequence) |
+## Brainteaser
+|  |
+| ------- |
+| [3828-final-element-after-subarray-deletions](https://github.com/Ajinkya-W/leetcode25/tree/master/3828-final-element-after-subarray-deletions) |
+## Game Theory
+|  |
+| ------- |
+| [3828-final-element-after-subarray-deletions](https://github.com/Ajinkya-W/leetcode25/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
