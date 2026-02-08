@@ -58,6 +58,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ajinkya-W/leetcode25/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0416-partition-equal-subset-sum) |
+| [0427-construct-quad-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0427-construct-quad-tree) |
 | [0496-next-greater-element-i](https://github.com/Ajinkya-W/leetcode25/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0503-next-greater-element-ii) |
 | [0721-accounts-merge](https://github.com/Ajinkya-W/leetcode25/tree/master/0721-accounts-merge) |
@@ -164,6 +165,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ajinkya-W/leetcode25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/Ajinkya-W/leetcode25/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Ajinkya-W/leetcode25/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0427-construct-quad-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 | [0085-maximal-rectangle](https://github.com/Ajinkya-W/leetcode25/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Ajinkya-W/leetcode25/tree/master/0221-maximal-square) |
+| [0427-construct-quad-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0427-construct-quad-tree) |
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -330,6 +333,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ajinkya-W/leetcode25/tree/master/0337-house-robber-iii) |
+| [0427-construct-quad-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ajinkya-W/leetcode25/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ajinkya-W/leetcode25/tree/master/0653-two-sum-iv-input-is-a-bst) |
