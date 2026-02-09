@@ -1,40 +1,37 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
+    bool topoDfs(unordered_map<int, vector<int>>& adj, vector<bool>& visited, vector<bool>& inRecursion, int src){
+        visited[src] = 1;
+        inRecursion[src] = 1;
 
-        vector<int> inDegree(numCourses);
+        for(int &v: adj[src]){
+            if(!visited[v] && topoDfs(adj, visited, inRecursion, v)){
+                return true;
+            } else if(inRecursion[v]){
+                return true;
+            }
+        }
+        inRecursion[src] = 0;
+        return false;
+    }
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        unordered_map<int, vector<int>> adj;
+
         for(int i = 0; i < prerequisites.size(); i++){
             int u = prerequisites[i][0], v = prerequisites[i][1];
-            adj[u].push_back(v);
-            inDegree[v]++;
+            // {u, v} 
+            // v -> u
+            adj[v].push_back(u);
         }
 
-        // BFS
-        queue<int> q;
+        vector<bool> inRecursion(numCourses, false), visited(numCourses, false);
+        vector<int> order;
+        bool isPossible;
         for(int i = 0; i < numCourses; i++){
-            if(inDegree[i] == 0){
-                q.push(i);
-            }
+            if(!visited[i] && topoDfs(adj, visited, inRecursion, i))
+                return false;
         }
-
-        int count = 0;
-        while(!q.empty()){
-            int u = q.front();
-            q.pop();
-
-            count++;
-
-            for(int &v: adj[u]){
-                inDegree[v]--;
-                if(inDegree[v] == 0){
-                    q.push(v);
-                }
-            }
-        }
-        if(count == numCourses){
-            return true;
-        }
-        return false;
+    
+        return true;
     }
 };
