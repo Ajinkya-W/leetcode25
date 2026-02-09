@@ -1,41 +1,46 @@
 class Solution {
-private:
-    void buildGraph(vector<vector<int>>& prerequisites, const int numCourses, vector<int> &inDegree, vector<vector<int>>& adjGraph){
-        for(const auto& relation: prerequisites){
-            adjGraph[relation[1]].push_back(relation[0]);
-            inDegree[relation[0]]++;
-        }
-        return;
-    }
-
 public:
-    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> inDegree(numCourses, 0);
-        vector<vector<int>> adjGraph(numCourses);
+    vector<int> topoSort(vector<vector<int>>& adj, vector<int>& inDegree) {
+        queue<int> q;
+        vector<int> order;
 
-        buildGraph(prerequisites, numCourses, inDegree, adjGraph);
-
-        queue<int> coursesQ;
-        vector<int> courseOrder;
-
-        for (int i = 0; i < numCourses; i++) {
+        for (int i = 0; i < inDegree.size(); i++) {
             if (inDegree[i] == 0) {
-                coursesQ.push(i);
+                q.push(i);
             }
         }
 
-        while(!coursesQ.empty()){
-            int currCourse = coursesQ.front();
-            coursesQ.pop();
-            courseOrder.push_back(currCourse);
-            for(auto neighbour: adjGraph[currCourse]){
-                inDegree[neighbour]--;
-                if(inDegree[neighbour] == 0){
-                    coursesQ.push(neighbour);
+        int count = 0;
+
+        while (!q.empty()) {
+            int u = q.front();
+            q.pop();
+            count++;
+            order.push_back(u);
+
+            for (int &v : adj[u]) {
+                inDegree[v]--;
+                if (inDegree[v] == 0) {
+                    q.push(v);
                 }
             }
         }
-        
-        return courseOrder.size() != numCourses? vector<int>(): courseOrder;
+        if (count == inDegree.size()) {
+            return order;
+        }
+        return {};
+    }
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<vector<int>> adj(numCourses);
+
+        vector<int> inDegree(numCourses, 0);
+        // build adj list
+        for (int i = 0; i < prerequisites.size(); i++) {
+            int u = prerequisites[i][0], v = prerequisites[i][1];
+            adj[v].push_back(u);
+            inDegree[u]++;
+        }
+
+        return topoSort(adj, inDegree);
     }
 };
