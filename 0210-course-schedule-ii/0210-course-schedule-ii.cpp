@@ -1,46 +1,41 @@
 class Solution {
 public:
-    vector<int> topoSort(vector<vector<int>>& adj, vector<int>& inDegree) {
-        queue<int> q;
-        vector<int> order;
+    // return has cycle as true
+    bool topoDFS(unordered_map<int, vector<int>>& adj, vector<bool>& visited, vector<bool>& inRecursion, vector<int>& order, int src){
+        visited[src] = 1;
+        inRecursion[src] = 1;
 
-        for (int i = 0; i < inDegree.size(); i++) {
-            if (inDegree[i] == 0) {
-                q.push(i);
-            }
+        for(int &v: adj[src]){
+            if(!visited[v] && topoDFS(adj, visited, inRecursion, order, v))
+                return true;
+            else if(inRecursion[v])
+                return true;
         }
-
-        int count = 0;
-
-        while (!q.empty()) {
-            int u = q.front();
-            q.pop();
-            count++;
-            order.push_back(u);
-
-            for (int &v : adj[u]) {
-                inDegree[v]--;
-                if (inDegree[v] == 0) {
-                    q.push(v);
-                }
-            }
-        }
-        if (count == inDegree.size()) {
-            return order;
-        }
-        return {};
+        inRecursion[src] = 0;
+        order.push_back(src);
+        return false;
     }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
+        unordered_map<int, vector<int>> adj(numCourses);
 
-        vector<int> inDegree(numCourses, 0);
-        // build adj list
-        for (int i = 0; i < prerequisites.size(); i++) {
+        for(int i = 0; i < prerequisites.size(); i++){
             int u = prerequisites[i][0], v = prerequisites[i][1];
+            // {1, 0} u, v
+            // 0 -> 1 v -> u
+
             adj[v].push_back(u);
-            inDegree[u]++;
         }
 
-        return topoSort(adj, inDegree);
+        vector<int> order;
+
+        vector<bool> inRecursion(numCourses, 0), visited(numCourses, 0);
+
+        for(int i = 0; i < numCourses; i++){
+            if(!visited[i] && topoDFS(adj, visited, inRecursion, order, i)){
+                return {};
+            }
+        }
+        reverse(order.begin(), order.end());
+        return order;
     }
 };
