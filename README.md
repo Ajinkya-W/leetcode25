@@ -402,6 +402,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ajinkya-W/leetcode25/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Bitmask DP
 |  |
@@ -411,6 +412,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
 ## Brainteaser
 |  |
 | ------- |
