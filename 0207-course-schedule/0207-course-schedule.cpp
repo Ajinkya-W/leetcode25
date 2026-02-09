@@ -1,42 +1,40 @@
 class Solution {
-private:
-    void buildGraph(vector<vector<int>>& prerequisites, const int numCourses, vector<int> &inDegree, vector<vector<int>>& adjGraph){
-        for(const auto& relation: prerequisites){
-            adjGraph[relation[1]].push_back(relation[0]);
-            inDegree[relation[0]]++;
-        }
-        return;
-    }
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> inDegree(numCourses, 0);
-        vector<vector<int>> adjGraph(numCourses);
+        vector<vector<int>> adj(numCourses);
 
-        buildGraph(prerequisites, numCourses, inDegree, adjGraph);
-        
-        queue<int> coursesQ;
-        int seenCourses = 0;
-        for (int i = 0; i < numCourses; i++) {
-            if (inDegree[i] == 0) {
-                coursesQ.push(i);
-                seenCourses++;
+        vector<int> inDegree(numCourses);
+        for(int i = 0; i < prerequisites.size(); i++){
+            int u = prerequisites[i][0], v = prerequisites[i][1];
+            adj[u].push_back(v);
+            inDegree[v]++;
+        }
+
+        // BFS
+        queue<int> q;
+        for(int i = 0; i < numCourses; i++){
+            if(inDegree[i] == 0){
+                q.push(i);
             }
         }
 
-        while(!coursesQ.empty()){
-            int currCourse = coursesQ.front();
-            coursesQ.pop();
-            for(auto neighbour: adjGraph[currCourse]){
-                inDegree[neighbour]--;
-                if(inDegree[neighbour] == 0){
-                    coursesQ.push(neighbour);
-                    seenCourses++;
+        int count = 0;
+        while(!q.empty()){
+            int u = q.front();
+            q.pop();
+
+            count++;
+
+            for(int &v: adj[u]){
+                inDegree[v]--;
+                if(inDegree[v] == 0){
+                    q.push(v);
                 }
             }
         }
-        if(seenCourses != numCourses){
-            return false;
+        if(count == numCourses){
+            return true;
         }
-        return true;
+        return false;
     }
 };
