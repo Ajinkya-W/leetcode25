@@ -1,31 +1,42 @@
 class Solution {
 private:
-    void dfs(vector<vector<int>>& adj, vector<bool>& visited, int curr){
-        if(visited[curr]) return;
+    void bfs(vector<vector<int>>& adj, vector<bool>& visited, int curr){
         visited[curr] = 1;
 
-        for(int &v: adj[curr]){
-            dfs(adj, visited, v);
+        queue<int> q;
+        q.push(curr);
+
+        while(!q.empty()){
+            int u = q.front();
+            q.pop();
+
+            for(int &v: adj[u]){
+                if(!visited[v]){
+                    q.push(v);
+                    visited[v] = 1;
+                }
+            }
         }
         return;
     }
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int V = isConnected[0].size();
+        int V = isConnected.size();
         vector<vector<int>> adj(V);
-        for(int i = 0; i < isConnected.size(); i++){
-            int u = i;
+        for(int i = 0; i < V; i++){ // make V/2
             for(int j = 0; j < V; j++){
                 if(isConnected[i][j] == 1 && i!=j){
-                    adj[u].push_back(j);
+                    adj[i].push_back(j);
+                    adj[j].push_back(i);
                 }
             }
         }
         int provinces = 0;
         vector<bool> visited(V, 0);
+
         for(int i = 0; i < V; i++){
             if(!visited[i]){
-                dfs(adj, visited, i);
+                bfs(adj, visited, i);
                 provinces++;
             }
         }
