@@ -1,27 +1,34 @@
 class Solution {
 private:
-    void dfsHelper(vector<vector<int>>& isConnected, vector<bool>& visited, int currNode){
-        if(visited[currNode]){
-            return;
+    void dfs(vector<vector<int>>& adj, vector<bool>& visited, int curr){
+        if(visited[curr]) return;
+        visited[curr] = 1;
+
+        for(int &v: adj[curr]){
+            dfs(adj, visited, v);
         }
-        visited[currNode] = 1;
-        int neighbours = isConnected[currNode].size();
-        for(int j = 0; j < neighbours; j++){
-            if(!visited[j] && isConnected[currNode][j]){
-                dfsHelper(isConnected, visited, j);
-            }
-        }
+        return;
     }
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int rows = isConnected.size(), totalProvinces = 0;
-        vector<bool> visited(rows, 0);
-        for(int currNode = 0; currNode < rows; currNode++){
-            if(!visited[currNode]){
-                totalProvinces++;
-                dfsHelper(isConnected, visited, currNode);
+        int V = isConnected[0].size();
+        vector<vector<int>> adj(V);
+        for(int i = 0; i < isConnected.size(); i++){
+            int u = i;
+            for(int j = 0; j < V; j++){
+                if(isConnected[i][j] == 1 && i!=j){
+                    adj[u].push_back(j);
+                }
             }
         }
-        return totalProvinces;
+        int provinces = 0;
+        vector<bool> visited(V, 0);
+        for(int i = 0; i < V; i++){
+            if(!visited[i]){
+                dfs(adj, visited, i);
+                provinces++;
+            }
+        }
+        return provinces;
     }
 };
