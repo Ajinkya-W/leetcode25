@@ -16,13 +16,12 @@ public:
         return false;
     }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        unordered_map<int, vector<int>> adj(numCourses);
+        unordered_map<int, vector<int>> adj;
 
         for(int i = 0; i < prerequisites.size(); i++){
             int u = prerequisites[i][0], v = prerequisites[i][1];
             // {1, 0} u, v
             // 0 -> 1 v -> u
-
             adj[v].push_back(u);
         }
 
