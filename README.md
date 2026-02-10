@@ -209,6 +209,7 @@
 | [0721-accounts-merge](https://github.com/Ajinkya-W/leetcode25/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ajinkya-W/leetcode25/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Ajinkya-W/leetcode25/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0968-binary-tree-cameras](https://github.com/Ajinkya-W/leetcode25/tree/master/0968-binary-tree-cameras) |
 | [1192-critical-connections-in-a-network](https://github.com/Ajinkya-W/leetcode25/tree/master/1192-critical-connections-in-a-network) |
@@ -227,6 +228,7 @@
 | [0721-accounts-merge](https://github.com/Ajinkya-W/leetcode25/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ajinkya-W/leetcode25/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Ajinkya-W/leetcode25/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ajinkya-W/leetcode25/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
@@ -405,6 +407,7 @@
 | [0207-course-schedule](https://github.com/Ajinkya-W/leetcode25/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Ajinkya-W/leetcode25/tree/master/0785-is-graph-bipartite) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ajinkya-W/leetcode25/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Bitmask DP
 |  |
@@ -415,6 +418,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Ajinkya-W/leetcode25/tree/master/0785-is-graph-bipartite) |
 ## Brainteaser
 |  |
 | ------- |
