@@ -1,23 +1,54 @@
-class Solution {
-public:
-    void dfs(vector<vector<int>>& isConnected, vector<bool>& visited, int curr){
-        visited[curr] = 1;
-        for(int v = 0; v < isConnected[curr].size(); v++){
-            if(!visited[v] && isConnected[curr][v] == 1){
-                dfs(isConnected, visited, v);
-            }
+class DSU{
+    vector<int> parent, rank;
+    public:
+    DSU(int n){
+        parent.resize(n);
+        rank.resize(n, 0);
+        for(int i = 0; i < n; i++){
+            parent[i] = i;
         }
     }
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int V = isConnected.size();
-        vector<bool> visited(V, 0);
-        int provinces = 0;
-        for(int i = 0; i < V; i++){
-            if(!visited[i]){
-                dfs(isConnected, visited, i);
-                provinces++;
+    int find(int x){
+        if(x == parent[x])
+            return x;
+        else{
+            return parent[x] = find(parent[x]);
+        }
+    }
+    bool unite(int x, int y){
+        int rootX = find(x);
+        int rootY = find(y);
+        if(rootX == rootY) return false;
+        else{
+            int rankX = rank[rootX];
+            int rankY = rank[rootY];
+            if(rankX > rankY){
+                parent[rootY] = rootX;
+            } else if(rankX < rankY){
+                parent[rootX] = rootY;
+            } else{
+                parent[rootY] = rootX;
+                rank[rootX]++;
             }
         }
-        return provinces;
+        return true;
+    }
+};
+class Solution {
+public:
+    
+    int findCircleNum(vector<vector<int>>& isConnected) {
+        int V = isConnected.size();
+        
+        DSU dsu(V);
+        int province = V;
+        for(int u = 0; u < V; u++){
+            for(int v = 0; v < V; v++){
+                if(isConnected[u][v] == 1 && dsu.unite(u, v)){
+                    province--;
+                }
+            }
+        }
+        return province;
     }
 };
