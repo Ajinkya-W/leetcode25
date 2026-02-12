@@ -417,6 +417,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Ajinkya-W/leetcode25/tree/master/0785-is-graph-bipartite) |
 ## Brainteaser
