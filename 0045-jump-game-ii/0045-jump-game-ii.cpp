@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int jump(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> jumpIndexMap(n, INT_MAX);
+        jumpIndexMap[0] = 0;
+        for(int i  = 0; i < n; i++){
+            for(int j = 0; j <= nums[i]; j++)
+                if(i + j < n) 
+                    jumpIndexMap[i + j] = min(jumpIndexMap[i] + 1, jumpIndexMap[i + j]);
+        }
+        return jumpIndexMap[n - 1];
+    }
+};
