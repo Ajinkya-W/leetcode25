@@ -64,6 +64,7 @@
 | [0427-construct-quad-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0427-construct-quad-tree) |
 | [0496-next-greater-element-i](https://github.com/Ajinkya-W/leetcode25/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0503-next-greater-element-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/Ajinkya-W/leetcode25/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Ajinkya-W/leetcode25/tree/master/0739-daily-temperatures) |
@@ -111,6 +112,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Ajinkya-W/leetcode25/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0416-partition-equal-subset-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ajinkya-W/leetcode25/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -438,4 +440,12 @@
 | ------- |
 | [0877-stone-game](https://github.com/Ajinkya-W/leetcode25/tree/master/0877-stone-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Ajinkya-W/leetcode25/tree/master/3828-final-element-after-subarray-deletions) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
