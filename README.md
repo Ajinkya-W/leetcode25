@@ -79,6 +79,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/Ajinkya-W/leetcode25/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 | [3637-trionic-array-i](https://github.com/Ajinkya-W/leetcode25/tree/master/3637-trionic-array-i) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Ajinkya-W/leetcode25/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Ajinkya-W/leetcode25/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
@@ -160,6 +161,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0300-longest-increasing-subsequence) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ajinkya-W/leetcode25/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Ajinkya-W/leetcode25/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Bit Manipulation
 |  |
 | ------- |
