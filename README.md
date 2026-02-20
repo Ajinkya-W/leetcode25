@@ -73,6 +73,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Ajinkya-W/leetcode25/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Ajinkya-W/leetcode25/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ajinkya-W/leetcode25/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ajinkya-W/leetcode25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ajinkya-W/leetcode25/tree/master/1584-min-cost-to-connect-all-points) |
@@ -157,6 +158,7 @@
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0300-longest-increasing-subsequence) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ajinkya-W/leetcode25/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
