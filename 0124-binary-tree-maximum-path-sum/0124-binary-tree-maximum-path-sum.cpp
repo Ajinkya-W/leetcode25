@@ -10,21 +10,18 @@
  * };
  */
 class Solution {
-private:
-    int dfsHelper(TreeNode* root, int &maxSum){
-        if(!root) return 0;
-
-        int leftMax = max(0, dfsHelper(root->left, maxSum));
-        int rightMax = max(0, dfsHelper(root->right, maxSum));
-
-        maxSum = max(maxSum, root->val + leftMax + rightMax);
-
-        return root->val + max(leftMax, rightMax);
-    }
 public:
+    int dfs(TreeNode* root, int& maxPathSum){
+        if(!root) return 0;
+        int leftSum = max(0, dfs(root->left, maxPathSum));
+        int rightSum = max(0, dfs(root->right, maxPathSum));
+        
+        maxPathSum = max(maxPathSum, root->val + leftSum + rightSum);
+        return root->val + max(leftSum, rightSum);
+    }
     int maxPathSum(TreeNode* root) {
-        int maxSum = INT_MIN;
-        dfsHelper(root, maxSum);
-        return maxSum;
+        int maxPathSum = -1001;
+        dfs(root, maxPathSum);
+        return maxPathSum;
     }
 };
