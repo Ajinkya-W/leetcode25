@@ -217,6 +217,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ajinkya-W/leetcode25/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ajinkya-W/leetcode25/tree/master/0207-course-schedule) |
@@ -240,6 +241,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Ajinkya-W/leetcode25/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ajinkya-W/leetcode25/tree/master/0207-course-schedule) |
@@ -353,6 +355,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ajinkya-W/leetcode25/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ajinkya-W/leetcode25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Ajinkya-W/leetcode25/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -370,6 +373,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ajinkya-W/leetcode25/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ajinkya-W/leetcode25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Ajinkya-W/leetcode25/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
