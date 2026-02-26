@@ -56,7 +56,7 @@ public:
 
             // Step 2: If the current "power" is less than the student's value,
             // activate the next queries in the list until the student hits zero.
-            while (currCapacityToZero < nums[i]) {
+            while (nums[i] - currCapacityToZero > 0) {
                 if (j == Q) return -1; // No more queries left to satisfy this student
 
                 int l = queries[j][0], r = queries[j][1], val = queries[j][2];
