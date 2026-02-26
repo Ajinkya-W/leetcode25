@@ -1,27 +1,27 @@
 class Solution {
     // This is our 'Check' function (O(N + k))
-    bool canZero(int k, vector<int>& nums, vector<vector<int>>& queries) {
-        int n = nums.size();
-        // Use long long because sum of k (10^4) over many queries can exceed INT_MAX
-        vector<long long> diff(n + 2, 0);
+    // bool canZero(int k, vector<int>& nums, vector<vector<int>>& queries) {
+    //     int n = nums.size();
+    //     // Use long long because sum of k (10^4) over many queries can exceed INT_MAX
+    //     vector<long long> diff(n + 2, 0);
 
-        // Apply first k queries to the difference array
-        for (int i = 0; i < k; ++i) {
-            int l = queries[i][0], r = queries[i][1], val = queries[i][2];
-            diff[l] += val;
-            diff[r + 1] -= val;
-        }
+    //     // Apply first k queries to the difference array
+    //     for (int i = 0; i < k; ++i) {
+    //         int l = queries[i][0], r = queries[i][1], val = queries[i][2];
+    //         diff[l] += val;
+    //         diff[r + 1] -= val;
+    //     }
 
-        // Verify if prefix sum at each index >= nums[i]
-        long long current_reduction = 0;
-        for (int i = 0; i < n; ++i) {
-            current_reduction += diff[i];
-            if (current_reduction < nums[i]) {
-                return false;
-            }
-        }
-        return true;
-    }
+    //     // Verify if prefix sum at each index >= nums[i]
+    //     long long current_reduction = 0;
+    //     for (int i = 0; i < n; ++i) {
+    //         current_reduction += diff[i];
+    //         if (current_reduction < nums[i]) {
+    //             return false;
+    //         }
+    //     }
+    //     return true;
+    // }
 public:
     // int minZeroArray(vector<int>& nums, vector<vector<int>>& queries) {
     //     int low = 0;
