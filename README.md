@@ -79,6 +79,7 @@
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ajinkya-W/leetcode25/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
+| [1854-maximum-population-year](https://github.com/Ajinkya-W/leetcode25/tree/master/1854-maximum-population-year) |
 | [3355-zero-array-transformation-i](https://github.com/Ajinkya-W/leetcode25/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/3356-zero-array-transformation-ii) |
 | [3637-trionic-array-i](https://github.com/Ajinkya-W/leetcode25/tree/master/3637-trionic-array-i) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ajinkya-W/leetcode25/tree/master/0238-product-of-array-except-self) |
 | [1109-corporate-flight-bookings](https://github.com/Ajinkya-W/leetcode25/tree/master/1109-corporate-flight-bookings) |
+| [1854-maximum-population-year](https://github.com/Ajinkya-W/leetcode25/tree/master/1854-maximum-population-year) |
 | [3355-zero-array-transformation-i](https://github.com/Ajinkya-W/leetcode25/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/3356-zero-array-transformation-ii) |
 ## Divide and Conquer
@@ -417,6 +419,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ajinkya-W/leetcode25/tree/master/0347-top-k-frequent-elements) |
+| [1854-maximum-population-year](https://github.com/Ajinkya-W/leetcode25/tree/master/1854-maximum-population-year) |
 ## Quickselect
 |  |
 | ------- |
