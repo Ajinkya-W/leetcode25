@@ -20,15 +20,14 @@ public:
         int rootx = find(x);
         int rooty = find(y);
         if(rootx == rooty) return false; // already connected
-        int rankx = rank[x];
-        int ranky = rank[y];
-        if(rankx > ranky){
+        
+        if(rank[rootx] > rank[rooty]){
             parent[rooty] = rootx;
-        } else if(rankx < ranky){
+        } else if(rank[rooty] < rank[rootx]){
             parent[rootx] = rooty;
         } else {
-            rankx++;
             parent[rooty] = rootx;
+            rank[rootx]++;
         }
         return true;
     }
