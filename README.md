@@ -246,6 +246,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0968-binary-tree-cameras](https://github.com/Ajinkya-W/leetcode25/tree/master/0968-binary-tree-cameras) |
 | [1192-critical-connections-in-a-network](https://github.com/Ajinkya-W/leetcode25/tree/master/1192-critical-connections-in-a-network) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Ajinkya-W/leetcode25/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1377-frog-position-after-t-seconds](https://github.com/Ajinkya-W/leetcode25/tree/master/1377-frog-position-after-t-seconds) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ajinkya-W/leetcode25/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
@@ -268,6 +269,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ajinkya-W/leetcode25/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Ajinkya-W/leetcode25/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1377-frog-position-after-t-seconds](https://github.com/Ajinkya-W/leetcode25/tree/master/1377-frog-position-after-t-seconds) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ajinkya-W/leetcode25/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1609-even-odd-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/1609-even-odd-tree) |
@@ -453,6 +455,7 @@
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Ajinkya-W/leetcode25/tree/master/0785-is-graph-bipartite) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ajinkya-W/leetcode25/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Ajinkya-W/leetcode25/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Bitmask DP
 |  |
 | ------- |
@@ -464,6 +467,7 @@
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Ajinkya-W/leetcode25/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Ajinkya-W/leetcode25/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Brainteaser
 |  |
 | ------- |
