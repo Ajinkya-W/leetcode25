@@ -460,6 +460,7 @@
 | [0785-is-graph-bipartite](https://github.com/Ajinkya-W/leetcode25/tree/master/0785-is-graph-bipartite) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ajinkya-W/leetcode25/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ajinkya-W/leetcode25/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ajinkya-W/leetcode25/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Bitmask DP
 |  |
 | ------- |
@@ -473,6 +474,7 @@
 | [0785-is-graph-bipartite](https://github.com/Ajinkya-W/leetcode25/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Ajinkya-W/leetcode25/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ajinkya-W/leetcode25/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ajinkya-W/leetcode25/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Brainteaser
 |  |
 | ------- |
