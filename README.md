@@ -77,6 +77,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ajinkya-W/leetcode25/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ajinkya-W/leetcode25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1109-corporate-flight-bookings](https://github.com/Ajinkya-W/leetcode25/tree/master/1109-corporate-flight-bookings) |
+| [1268-search-suggestions-system](https://github.com/Ajinkya-W/leetcode25/tree/master/1268-search-suggestions-system) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ajinkya-W/leetcode25/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
@@ -138,6 +139,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ajinkya-W/leetcode25/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/Ajinkya-W/leetcode25/tree/master/0721-accounts-merge) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ajinkya-W/leetcode25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1268-search-suggestions-system](https://github.com/Ajinkya-W/leetcode25/tree/master/1268-search-suggestions-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0300-longest-increasing-subsequence) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ajinkya-W/leetcode25/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1268-search-suggestions-system](https://github.com/Ajinkya-W/leetcode25/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 | [3356-zero-array-transformation-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/3356-zero-array-transformation-ii) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Ajinkya-W/leetcode25/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
@@ -208,6 +211,7 @@
 | [0127-word-ladder](https://github.com/Ajinkya-W/leetcode25/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Ajinkya-W/leetcode25/tree/master/0721-accounts-merge) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ajinkya-W/leetcode25/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1268-search-suggestions-system](https://github.com/Ajinkya-W/leetcode25/tree/master/1268-search-suggestions-system) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
@@ -355,6 +359,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ajinkya-W/leetcode25/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Ajinkya-W/leetcode25/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1268-search-suggestions-system](https://github.com/Ajinkya-W/leetcode25/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
@@ -492,4 +497,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/Ajinkya-W/leetcode25/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
