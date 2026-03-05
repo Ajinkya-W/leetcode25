@@ -82,6 +82,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/Ajinkya-W/leetcode25/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 | [1854-maximum-population-year](https://github.com/Ajinkya-W/leetcode25/tree/master/1854-maximum-population-year) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Ajinkya-W/leetcode25/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [3355-zero-array-transformation-i](https://github.com/Ajinkya-W/leetcode25/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/3356-zero-array-transformation-ii) |
 | [3637-trionic-array-i](https://github.com/Ajinkya-W/leetcode25/tree/master/3637-trionic-array-i) |
@@ -204,6 +205,7 @@
 | [0045-jump-game-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ajinkya-W/leetcode25/tree/master/0055-jump-game) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ajinkya-W/leetcode25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Ajinkya-W/leetcode25/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## String
 |  |
 | ------- |
@@ -361,6 +363,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ajinkya-W/leetcode25/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1268-search-suggestions-system](https://github.com/Ajinkya-W/leetcode25/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Ajinkya-W/leetcode25/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Monotonic Queue
 |  |
 | ------- |
