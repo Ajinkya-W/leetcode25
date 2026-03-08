@@ -75,6 +75,7 @@
 | [0877-stone-game](https://github.com/Ajinkya-W/leetcode25/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ajinkya-W/leetcode25/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1032-stream-of-characters](https://github.com/Ajinkya-W/leetcode25/tree/master/1032-stream-of-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ajinkya-W/leetcode25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1109-corporate-flight-bookings](https://github.com/Ajinkya-W/leetcode25/tree/master/1109-corporate-flight-bookings) |
 | [1268-search-suggestions-system](https://github.com/Ajinkya-W/leetcode25/tree/master/1268-search-suggestions-system) |
@@ -212,6 +213,7 @@
 | [0022-generate-parentheses](https://github.com/Ajinkya-W/leetcode25/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Ajinkya-W/leetcode25/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Ajinkya-W/leetcode25/tree/master/0721-accounts-merge) |
+| [1032-stream-of-characters](https://github.com/Ajinkya-W/leetcode25/tree/master/1032-stream-of-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ajinkya-W/leetcode25/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1268-search-suggestions-system](https://github.com/Ajinkya-W/leetcode25/tree/master/1268-search-suggestions-system) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -343,11 +345,13 @@
 | [0173-binary-search-tree-iterator](https://github.com/Ajinkya-W/leetcode25/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ajinkya-W/leetcode25/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Ajinkya-W/leetcode25/tree/master/0901-online-stock-span) |
+| [1032-stream-of-characters](https://github.com/Ajinkya-W/leetcode25/tree/master/1032-stream-of-characters) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ajinkya-W/leetcode25/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Ajinkya-W/leetcode25/tree/master/0901-online-stock-span) |
+| [1032-stream-of-characters](https://github.com/Ajinkya-W/leetcode25/tree/master/1032-stream-of-characters) |
 ## Queue
 |  |
 | ------- |
@@ -509,5 +513,6 @@
 ## Trie
 |  |
 | ------- |
+| [1032-stream-of-characters](https://github.com/Ajinkya-W/leetcode25/tree/master/1032-stream-of-characters) |
 | [1268-search-suggestions-system](https://github.com/Ajinkya-W/leetcode25/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
