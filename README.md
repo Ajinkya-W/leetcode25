@@ -101,6 +101,7 @@
 | [0217-contains-duplicate](https://github.com/Ajinkya-W/leetcode25/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ajinkya-W/leetcode25/tree/master/0347-top-k-frequent-elements) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ajinkya-W/leetcode25/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0496-next-greater-element-i](https://github.com/Ajinkya-W/leetcode25/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ajinkya-W/leetcode25/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Ajinkya-W/leetcode25/tree/master/0721-accounts-merge) |
@@ -168,6 +169,7 @@
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0300-longest-increasing-subsequence) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ajinkya-W/leetcode25/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ajinkya-W/leetcode25/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/Ajinkya-W/leetcode25/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
@@ -343,12 +345,14 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ajinkya-W/leetcode25/tree/master/0173-binary-search-tree-iterator) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ajinkya-W/leetcode25/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ajinkya-W/leetcode25/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Ajinkya-W/leetcode25/tree/master/0901-online-stock-span) |
 | [1032-stream-of-characters](https://github.com/Ajinkya-W/leetcode25/tree/master/1032-stream-of-characters) |
 ## Data Stream
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ajinkya-W/leetcode25/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ajinkya-W/leetcode25/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Ajinkya-W/leetcode25/tree/master/0901-online-stock-span) |
 | [1032-stream-of-characters](https://github.com/Ajinkya-W/leetcode25/tree/master/1032-stream-of-characters) |
@@ -488,6 +492,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Ajinkya-W/leetcode25/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ajinkya-W/leetcode25/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0547-number-of-provinces](https://github.com/Ajinkya-W/leetcode25/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Ajinkya-W/leetcode25/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Ajinkya-W/leetcode25/tree/master/0827-making-a-large-island) |
@@ -515,4 +520,8 @@
 | ------- |
 | [1032-stream-of-characters](https://github.com/Ajinkya-W/leetcode25/tree/master/1032-stream-of-characters) |
 | [1268-search-suggestions-system](https://github.com/Ajinkya-W/leetcode25/tree/master/1268-search-suggestions-system) |
+## Ordered Set
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ajinkya-W/leetcode25/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
