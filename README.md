@@ -38,6 +38,7 @@
 | [0045-jump-game-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ajinkya-W/leetcode25/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ajinkya-W/leetcode25/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Ajinkya-W/leetcode25/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Ajinkya-W/leetcode25/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Ajinkya-W/leetcode25/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ajinkya-W/leetcode25/tree/master/0084-largest-rectangle-in-histogram) |
@@ -139,6 +140,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ajinkya-W/leetcode25/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Ajinkya-W/leetcode25/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ajinkya-W/leetcode25/tree/master/0347-top-k-frequent-elements) |
