@@ -4,15 +4,14 @@ class Solution {
             ans.push_back(curr);
             return;
         }
-        for(int i = 0; i < nums.size(); i++){     
-            int num = nums[i]; 
-            if(used[i] == 0){
-                curr.push_back(num);
-                used[i] = 1;
-                rec(nums, curr, ans, used);
-                curr.pop_back();
-                used[i] = 0;
-            }
+        for(int i = 0; i < nums.size(); i++){   
+            if(used[i] == 1) continue;
+            
+            curr.push_back(nums[i]);
+            used[i] = 1;
+            rec(nums, curr, ans, used);
+            curr.pop_back();
+            used[i] = 0;
         }
         return;
     }
