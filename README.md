@@ -256,6 +256,7 @@
 | [0210-course-schedule-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0337-house-robber-iii](https://github.com/Ajinkya-W/leetcode25/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Ajinkya-W/leetcode25/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0543-diameter-of-binary-tree) |
@@ -413,6 +414,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Ajinkya-W/leetcode25/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0337-house-robber-iii](https://github.com/Ajinkya-W/leetcode25/tree/master/0337-house-robber-iii) |
 | [0427-construct-quad-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/Ajinkya-W/leetcode25/tree/master/0437-path-sum-iii) |
@@ -434,6 +436,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Ajinkya-W/leetcode25/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ajinkya-W/leetcode25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0337-house-robber-iii](https://github.com/Ajinkya-W/leetcode25/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Ajinkya-W/leetcode25/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Ajinkya-W/leetcode25/tree/master/0450-delete-node-in-a-bst) |
