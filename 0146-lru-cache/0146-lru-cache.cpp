@@ -1,41 +1,37 @@
 class LRUCache {
 public:
     int capacity;
-    unordered_map<int, list<pair<int, int>>::iterator> itrMap;
-    list<pair<int, int>> lru;
-
-    LRUCache(int capacity) { this->capacity = capacity; }
-
+    list<pair<int, int>> lru; // key value
+    unordered_map<int, list<pair<int, int>>::iterator>
+        keyItrMap; // key to lru iterator
+    LRUCache(int cap) : capacity(cap) {}
+    int maxCapacity() { return this->capacity; }
     int get(int key) {
-        auto it = itrMap.find(key);
-
-        if (it == itrMap.end())
-            return -1;
-
-        int value = it->second->second;
-        lru.erase(it->second);
-        lru.push_front({key, value});
-
-        itrMap.erase(it);
-        itrMap[key] = lru.begin();
-        return value;
+        if (keyItrMap.count(key)) {
+            int value = keyItrMap[key]->second;
+            lru.erase(keyItrMap[key]);
+            keyItrMap.erase(key);
+            lru.push_back({key, value});
+            keyItrMap[key] = prev(lru.end());
+            return value;
+        }
+        return -1;
     }
 
     void put(int key, int value) {
-        auto it = itrMap.find(key);
-
-        if (itrMap.find(key) != itrMap.end()) {
-            lru.erase(it->second);
-            itrMap.erase(it);
-        }
-
-        lru.push_front({key, value});
-        itrMap[key] = lru.begin();
-
-        if (itrMap.size() > capacity) {
-            auto it = itrMap.find(lru.rbegin()->first);
-            itrMap.erase(it);
-            lru.pop_back();
+        auto itr = keyItrMap.find(key);
+        if (itr != keyItrMap.end()) {
+            lru.erase(keyItrMap[key]);
+            lru.push_back({key, value});
+            keyItrMap[key] = prev(lru.end());
+        } else {
+            if (maxCapacity() == keyItrMap.size()) {
+                auto& front = lru.front();
+                keyItrMap.erase(front.first);
+                lru.pop_front();
+            }
+            lru.push_back({key, value});
+            keyItrMap[key] = prev(lru.end());
         }
     }
 };
