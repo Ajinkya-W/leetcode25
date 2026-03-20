@@ -8,6 +8,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ajinkya-W/leetcode25/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Ajinkya-W/leetcode25/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Ajinkya-W/leetcode25/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/Ajinkya-W/leetcode25/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/Ajinkya-W/leetcode25/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -105,6 +106,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Ajinkya-W/leetcode25/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Ajinkya-W/leetcode25/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Ajinkya-W/leetcode25/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ajinkya-W/leetcode25/tree/master/0347-top-k-frequent-elements) |
@@ -356,6 +358,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ajinkya-W/leetcode25/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Ajinkya-W/leetcode25/tree/master/0173-binary-search-tree-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ajinkya-W/leetcode25/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/Ajinkya-W/leetcode25/tree/master/0355-design-twitter) |
@@ -542,4 +545,8 @@
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ajinkya-W/leetcode25/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ajinkya-W/leetcode25/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
