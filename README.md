@@ -64,6 +64,7 @@
 | [0221-maximal-square](https://github.com/Ajinkya-W/leetcode25/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Ajinkya-W/leetcode25/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ajinkya-W/leetcode25/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ajinkya-W/leetcode25/tree/master/0300-longest-increasing-subsequence) |
@@ -150,6 +151,7 @@
 | [0047-permutations-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Ajinkya-W/leetcode25/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Ajinkya-W/leetcode25/tree/master/0217-contains-duplicate) |
+| [0253-meeting-rooms-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ajinkya-W/leetcode25/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/Ajinkya-W/leetcode25/tree/master/0721-accounts-merge) |
@@ -166,6 +168,7 @@
 | [0141-linked-list-cycle](https://github.com/Ajinkya-W/leetcode25/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajinkya-W/leetcode25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0253-meeting-rooms-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ajinkya-W/leetcode25/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ajinkya-W/leetcode25/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Ajinkya-W/leetcode25/tree/master/0876-middle-of-the-linked-list) |
@@ -201,6 +204,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ajinkya-W/leetcode25/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0253-meeting-rooms-ii) |
 | [1109-corporate-flight-bookings](https://github.com/Ajinkya-W/leetcode25/tree/master/1109-corporate-flight-bookings) |
 | [1854-maximum-population-year](https://github.com/Ajinkya-W/leetcode25/tree/master/1854-maximum-population-year) |
 | [3355-zero-array-transformation-i](https://github.com/Ajinkya-W/leetcode25/tree/master/3355-zero-array-transformation-i) |
@@ -220,6 +224,7 @@
 | [0011-container-with-most-water](https://github.com/Ajinkya-W/leetcode25/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ajinkya-W/leetcode25/tree/master/0055-jump-game) |
+| [0253-meeting-rooms-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0253-meeting-rooms-ii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ajinkya-W/leetcode25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Ajinkya-W/leetcode25/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## String
@@ -384,6 +389,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ajinkya-W/leetcode25/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ajinkya-W/leetcode25/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Ajinkya-W/leetcode25/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ajinkya-W/leetcode25/tree/master/0703-kth-largest-element-in-a-stream) |
