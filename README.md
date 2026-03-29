@@ -88,6 +88,7 @@
 | [1032-stream-of-characters](https://github.com/Ajinkya-W/leetcode25/tree/master/1032-stream-of-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ajinkya-W/leetcode25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1109-corporate-flight-bookings](https://github.com/Ajinkya-W/leetcode25/tree/master/1109-corporate-flight-bookings) |
+| [1219-path-with-maximum-gold](https://github.com/Ajinkya-W/leetcode25/tree/master/1219-path-with-maximum-gold) |
 | [1268-search-suggestions-system](https://github.com/Ajinkya-W/leetcode25/tree/master/1268-search-suggestions-system) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ajinkya-W/leetcode25/tree/master/1584-min-cost-to-connect-all-points) |
@@ -346,6 +347,7 @@
 | [0733-flood-fill](https://github.com/Ajinkya-W/leetcode25/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Ajinkya-W/leetcode25/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Ajinkya-W/leetcode25/tree/master/0994-rotting-oranges) |
+| [1219-path-with-maximum-gold](https://github.com/Ajinkya-W/leetcode25/tree/master/1219-path-with-maximum-gold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ajinkya-W/leetcode25/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/Ajinkya-W/leetcode25/tree/master/1631-path-with-minimum-effort) |
 ## Memoization
@@ -414,6 +416,7 @@
 | [0078-subsets](https://github.com/Ajinkya-W/leetcode25/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Ajinkya-W/leetcode25/tree/master/0113-path-sum-ii) |
+| [1219-path-with-maximum-gold](https://github.com/Ajinkya-W/leetcode25/tree/master/1219-path-with-maximum-gold) |
 ## Tree
 |  |
 | ------- |
